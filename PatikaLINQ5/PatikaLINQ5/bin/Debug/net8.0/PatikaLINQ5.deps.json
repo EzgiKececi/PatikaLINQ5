@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatikaLINQ5/1.0.0": {
+        "runtime": {
+          "PatikaLINQ5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatikaLINQ5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

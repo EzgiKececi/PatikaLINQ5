@@ -1,1 +1,1 @@
-# PatikaLINQ5
+GroupJoin ile iki listeyi birleştirme
